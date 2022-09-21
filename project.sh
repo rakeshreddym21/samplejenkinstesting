@@ -1,1 +1,1 @@
-echo "This is jenkins testing file with git"
+echo "This is jenkins file with git"
